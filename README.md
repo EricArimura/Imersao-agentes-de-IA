@@ -109,9 +109,9 @@ O projeto está contido em um Jupyter Notebook (`.ipynb`).
 A estrutura de arquivos do projeto é simples e organizada da seguinte forma:
 
 .
-├── agente_de_ia.ipynb                                     # Notebook principal com a lógica do agente
-├── Política de Reembolsos (Viagens e Despesas).pdf        # 1º Documento da base de conhecimento (exemplo)
-├── Política de Uso de E-mail e Segurança da Informação.pdf  # 2º Documento da base de conhecimento (exemplo)
-├── Políticas de Home Office.pdf                           # 3º Documento da base de conhecimento (exemplo)
-├── requirements.txt                                       # Lista de dependências para instalação
+├── agente_de_ia.ipynb                                     # Notebook principal com a lógica do agente<br>
+├── Política de Reembolsos (Viagens e Despesas).pdf        # 1º Documento da base de conhecimento (exemplo)<br>
+├── Política de Uso de E-mail e Segurança da Informação.pdf  # 2º Documento da base de conhecimento (exemplo)<br>
+├── Políticas de Home Office.pdf                           # 3º Documento da base de conhecimento (exemplo)<br>
+├── requirements.txt                                       # Lista de dependências para instalação<br>
 └── README.md                                              # Documentação do projeto (este arquivo)
